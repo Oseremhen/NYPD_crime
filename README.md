@@ -1,6 +1,6 @@
 ## NYPD CRIME DATA
 
-<img width="167" alt="Screenshot 2023-03-17 at 5 07 10 PM" src="https://user-images.githubusercontent.com/106120403/227641441-c3630f3c-15de-4d64-b79b-af827b2ec0ee.png">
+<img width="823" alt="Screenshot 2023-03-24 at 5 08 27 PM" src="https://user-images.githubusercontent.com/106120403/227642079-80c2572a-2358-4b7c-b139-462abca60092.png">
 
 Team Members: Jon Argosino, Hinna Ahmad, Oseremhen(Ose) Okpamen, John Francavilla
 
